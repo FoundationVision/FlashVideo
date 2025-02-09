@@ -1,0 +1,26 @@
+*__pycache__/
+# *.png
+*.pt
+1080_rope_ana
+1080_rope_ana/
+samples*/
+runs/
+checkpoints/
+master_ip
+logs/
+*.DS_Store
+.idea
+output*
+test*
+cogvideox-5b-sat
+cogvideox-5b-sat/
+*.log
+*/mini_tools/*
+*.mp4
+*vis_*
+*.pkl
+*.mp4
+vis_*
+checkpoints
+checkpoints/
+__pycache__/*
