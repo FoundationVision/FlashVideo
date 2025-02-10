@@ -32,13 +32,24 @@
 #### <span style="color:blue">⚡⚡</span> User Prompt to <span style="color:green">270p</span>, NFE = 50, Takes ~30s <span style="color:blue">⚡⚡
 #### ⚡⚡</span>  <span style="color:green">270p</span> to <span style="color:purple">1080p</span> , NFE = 4, Takes ~72s <span style="color:blue">⚡⚡</span>
 
-<!-- [![](figs/22_0.jpg)](https://jshilong.github.io/flashvideo-page/static/githubfigs/270_1080/22_0.mp4) -->
+[![]()](https://github.com/FoundationVision/flashvideo-page/blob/main/static/images/output.gif)
 
 
-<video id="video1" width="960" height="270" controls poster="figs/22_0.jpg">
+<!-- <p align="center">
+    <img src="https://github.com/FoundationVision/flashvideo-page/blob/main/static/images/output.gif" width="80%", style="vertical-align: middle; margin-right: 0px; position: relative; top: 25px;"> <br>
+
+</p> -->
+
+
+<p align="center">
+<img src="https://github.com/FoundationVision/flashvideo-page/blob/main/static/images/output.gif" width="100%"> <br>
+
+</p>
+
+<!-- <video id="video1" width="960" height="270" controls poster="figs/22_0.jpg">
     <source src="https://github.com/FoundationVision/flashvideo-page/raw/refs/heads/main/static/githubfigs/270_1080/22_0.mp4" type="video/mp4">
     Your browser does not support the video tag.
-</video>
+</video> -->
 
 
 ## 🔥 Update
@@ -109,6 +120,7 @@ This project is developed based on [CogVideoX](https://github.com/THUDM/CogVideo
 
 ```bibtex
 @article{zhang2025flashvideo,
+  title={FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation},
   author={Zhang, Shilong and Li, Wenbo and Chen, Shoufa and Ge, Chongjian and Sun, Peize and Zhang, Yida and Jiang, Yi and Yuan, Zehuan and Binyue, Peng and Luo, Ping},
   journal={arXiv preprint arXiv:2502.05179},
   year={2025}
