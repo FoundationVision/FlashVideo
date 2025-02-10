@@ -32,14 +32,14 @@
 #### <span style="color:blue">⚡⚡</span> User Prompt to <span style="color:green">270p</span>, NFE = 50, Takes ~30s <span style="color:blue">⚡⚡
 #### ⚡⚡</span>  <span style="color:green">270p</span> to <span style="color:purple">1080p</span> , NFE = 4, Takes ~72s <span style="color:blue">⚡⚡</span>
 
-[![](figs/22_0.jpg)](https://jshilong.github.io/flashvideo-page/static/githubfigs/270_1080/22_0.mp4)
+<!-- [![](figs/22_0.jpg)](https://jshilong.github.io/flashvideo-page/static/githubfigs/270_1080/22_0.mp4) -->
 
-<!-- <p>
+<p>
     <video id="video1" width="960" height="270" controls poster="figs/22_0.jpg">
-        <source src="https://jshilong.github.io/flashvideo-page/static/githubfigs/270_1080/22_0.mp4" type="video/mp4">
+        <source src="https://github.com/FoundationVision/flashvideo-page/raw/refs/heads/main/static/githubfigs/270_1080/22_0.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
-</p> -->
+</p>
 
 ## 🔥 Update
 
