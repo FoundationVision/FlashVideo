@@ -57,12 +57,13 @@
 - \[2025.02.10\] 🔥 🔥 🔥  Inference code and both stage model [weights](https://huggingface.co/FoundationVision/FlashVideo/tree/main) have been released.
 
 ## 🌿 Introduction
-
 In this repository, we provide:
 
-- The stage-I weight for 270P video generation.
-- The stage-II for enhancing 270P video to 1080P.
-- Inference code of both stages.
+- [x] The stage-I weight for 270P video generation.
+- [x] The stage-II for enhancing 270P video to 1080P.
+- [x] Inference code of both stages.
+- [ ] Training code and related augmentation.
+- [ ] Implementation with diffusers.
 
 ## Install
 
