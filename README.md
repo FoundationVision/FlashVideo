@@ -7,7 +7,7 @@
 
 # Flowing Fidelity to Detail for Efficient High-Resolution Video Generation
 
-[![arXiv](https://img.shields.io/badge/arXiv%20paper-2406.06525-b31b1b.svg)](https://arxiv.org/abs/)
+[![arXiv](https://img.shields.io/badge/arXiv%20paper-2502.05179-b31b1b.svg)](https://arxiv.org/abs/2502.05179)
 [![project page](https://img.shields.io/badge/Project_page-More_visualizations-green)](https://jshilong.github.io/flashvideo-page/)&#160;
 
 </div>
@@ -34,12 +34,12 @@
 
 <!-- [![](figs/22_0.jpg)](https://jshilong.github.io/flashvideo-page/static/githubfigs/270_1080/22_0.mp4) -->
 
-<p>
-    <video id="video1" width="960" height="270" controls poster="figs/22_0.jpg">
-        <source src="https://github.com/FoundationVision/flashvideo-page/raw/refs/heads/main/static/githubfigs/270_1080/22_0.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</p>
+
+<video id="video1" width="960" height="270" controls poster="figs/22_0.jpg">
+    <source src="https://github.com/FoundationVision/flashvideo-page/raw/refs/heads/main/static/githubfigs/270_1080/22_0.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
 
 ## 🔥 Update
 
@@ -108,10 +108,9 @@ This project is developed based on [CogVideoX](https://github.com/THUDM/CogVideo
 ## BibTeX
 
 ```bibtex
-@article{shilong,
-  title={},
-  author={},
-  journal={arXiv preprint arXiv:},
+@article{zhang2025flashvideo,
+  author={Zhang, Shilong and Li, Wenbo and Chen, Shoufa and Ge, Chongjian and Sun, Peize and Zhang, Yida and Jiang, Yi and Yuan, Zehuan and Binyue, Peng and Luo, Ping},
+  journal={arXiv preprint arXiv:2502.05179},
   year={2025}
 }
 ```
