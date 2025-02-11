@@ -99,7 +99,8 @@ The checkpoints should be organized as shown below:
 
 ### Jupyter Notebook
 
-You can conveniently provide user prompts in our Jupyter notebook. The use of a single GPU with an 80G capacity is recommended. Alternatively, you may need to adjust the spatial and temporal slice of the VAE Decoder.
+You can conveniently provide user prompts in our Jupyter notebook. The default configuration for spatial and temporal slices in the VAE Decoder is tailored for an 80G GPU. For GPUs with less memory, one might consider increasing the [spatial and temporal slice](https://github.com/FoundationVision/FlashVideo/blob/400a9c1ef905eab3a1cb6b9f5a5a4c331378e4b5/sat/utils.py#L110).
+
 
 ```python
 sat/demo.ipynb
