@@ -103,7 +103,7 @@ You can conveniently provide user prompts in our Jupyter notebook. The default c
 
 
 ```python
-sat/demo.ipynb
+flashvideo/demo.ipynb
 ```
 
 ### Inferring from a Text File Containing Prompts
