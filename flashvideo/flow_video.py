@@ -409,7 +409,7 @@ class FlowVideoDiffusionLoss(StandardDiffusionLoss):
         x1 = x1.repeat(dummy_batch_size, 1, 1, 1, 1)
         
         t = pad_v_like_x(t, x0)
-        xt = x0 * t + (1-t) * x1
+        xt = x0 * (1 - t) + t * x1
 
         
         additional_model_inputs["idx"] = idx
