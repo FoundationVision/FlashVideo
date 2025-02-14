@@ -122,8 +122,8 @@ This project is developed based on [CogVideoX](https://github.com/THUDM/CogVideo
 
 ```bibtex
 @article{zhang2025flashvideo,
-  title={FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation},
-  author={Zhang, Shilong and Li, Wenbo and Chen, Shoufa and Ge, Chongjian and Sun, Peize and Zhang, Yida and Jiang, Yi and Yuan, Zehuan and Binyue, Peng and Luo, Ping},
+  title={FlashVideo: Flowing Fidelity to Detail for Efficient High-Resolution Video Generation},
+  author={Zhang, Shilong and Li, Wenbo and Chen, Shoufa and Ge, Chongjian and Sun, Peize and Zhang, Yida and Jiang, Yi and Yuan, Zehuan and Peng, Binyue and Luo, Ping},
   journal={arXiv preprint arXiv:2502.05179},
   year={2025}
 }
