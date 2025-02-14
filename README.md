@@ -62,8 +62,13 @@ In this repository, we provide:
 - [x] The stage-I weight for 270P video generation.
 - [x] The stage-II for enhancing 270P video to 1080P.
 - [x] Inference code of both stages.
-- [ ] Training code and related augmentation.
+- [ ] Training code and related augmentation. Work in process [PR#12](https://github.com/FoundationVision/FlashVideo/pull/12)
+    - [x] Loss function
+    - [ ] Dataset and augmentation
+    - [ ] Configuration and training script
 - [ ] Implementation with diffusers.
+- [ ] Gradio.
+
 
 ## Install
 
