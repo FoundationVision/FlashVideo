@@ -367,7 +367,7 @@ class FlowVideoDiffusionLoss(StandardDiffusionLoss):
             ref_x = self.share_cache["ref_x"]
             ref_noise = torch.randn_like(ref_x)
             
-      
+            # deg latent
             ref_noised_input = ref_x * append_dims(ref_alphas_cumprod_sqrt, ref_x.ndim) \
                     + ref_noise * append_dims(
             (1 - ref_alphas_cumprod_sqrt**2) ** 0.5, ref_x.ndim
