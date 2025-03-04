@@ -252,7 +252,7 @@ class FlowEngine(nn.Module):
         results = odeint(single_function_evaluation,
                          ref_x,
                          t,
-                         method=sample_kwargs.get('method', 'rk4'),
+                         method=sample_kwargs.get('method', 'euler'),
                          atol=1e-6,
                          rtol=1e-3)[-1]
 
