@@ -18,7 +18,7 @@
 <img src="figs/methodv3.png" width=90%>
 <p>
 
-> [**FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**](https://arxiv.org/abs/)<br>
+> [**FlashVideo: Flowing Fidelity to Detail for Efficient High-Resolution Video Generation**](https://arxiv.org/abs/2502.05179)<br>
 > [Shilong Zhang](https://jshilong.github.io/), [Wenbo Li](https://scholar.google.com/citations?user=foGn_TIAAAAJ&hl=en), [Shoufa Chen](https://www.shoufachen.com/), [Chongjian Ge](https://chongjiange.github.io/), [Peize Sun](https://peizesun.github.io/), <br>[Yida Zhang](<>),   [Yi Jiang](https://enjoyyi.github.io/), [Zehuan Yuan](https://shallowyuan.github.io/), [Bingyue Peng](<>), [Ping Luo](http://luoping.me/),
 > <br>HKU, CUHK, ByteDance<br>
 
